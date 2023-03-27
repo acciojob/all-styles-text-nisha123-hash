@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container{
+	max-width:200px;
+	background-color:purple;
+	border-left-width:10px;
+	border-left-color:green;
+	padding:10px;
+}
+.heading{
+	font-size:20px;
+	color:white;
+}
