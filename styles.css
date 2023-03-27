@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
 .container{
-	max-width:200px;
-	background-color:purple;
-	 border-left: 10px solid green;
+	width:200px;
+	background-color:rgb(128, 0, 128);
+	 border-left-width: 5px;
+	border-left-color:rgb(0, 128, 0)
 	padding:10px;
 }
 .heading{
 	font-size:20px;
-	color:white;
+	color:rgb(255, 255, 255);
 }
